@@ -17,9 +17,7 @@
 #include <dt-bindings/zmk/outputs.h>
 
 #define BASE 0
-#define NUM  1
-#define SYM  2
-#define ADJ  3
+#define NUM 1
 
 &mt {
   quick-tap-ms = <100>;
@@ -84,7 +82,6 @@ label= "BASE"                              ;
                             &trans      &kp SPACE   &trans          &mo NUM     &kp ENTER   &trans
                         >;
                 };
-        };
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 
@@ -169,5 +166,5 @@ label= "ADJ"                               ;
                         >;
                 };
         };
-};
 */
+};
