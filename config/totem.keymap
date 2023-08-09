@@ -82,7 +82,7 @@ label= "BASE"                              ;
     &mt LGUI A  &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G           &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &mt RGUI SEMICOLON
     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
                             &kp LEFT_BRACE &kp RIGHT_BRACE                      &kp GRAVE   &kp BSLH 
-                            &trans      &kp TAB     &trans          &mt RALT L  &kp BSPC    &trans
+                            &trans      &kp TAB     &trans          &kp RALT    &kp BSPC    &trans
                             &trans      &kp SPACE   &trans          &mo NUM     &kp ENTER   &trans
                         >;
                 };
@@ -113,7 +113,7 @@ label= "NUM"                              ;
     &mt LGUI A  &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G           &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &mt RGUI SEMICOLON
     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
                             &kp LEFT_BRACE &kp RIGHT_BRACE                      &kp GRAVE   &kp BSLH 
-                            &trans      &kp TAB     &trans          &kp RALT L  &kp BSPC    &trans
+                            &trans      &kp TAB     &trans          &kp RALT    &kp BSPC    &trans
                             &trans      &kp SPACE   &trans          &trans      &kp ENTER   &trans
                         >;
                 };
