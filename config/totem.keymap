@@ -83,7 +83,7 @@ label= "BASE"                              ;
     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
                             &kp LEFT_BRACE &kp RIGHT_BRACE                      &kp GRAVE   &kp BSLH 
                             &trans      &kp TAB     &trans          &mt RALT L  &kp BSPC    &trans
-                            &trans      &kp SPACE   &trans        &mo NUM_layer &kp ENTER   &trans
+                            &trans      &kp SPACE   &trans          &mo NUM     &kp ENTER   &trans
                         >;
                 };
         };
