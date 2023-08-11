@@ -104,9 +104,9 @@ label= "NUM"                              ;
  bindings = <
 // ╷                ╷                   ╷           ╷           ╷            ╷   ╷           ╷             ╷              ╷             ╷           ╷  
 
-    &kp KP_MINUS     &kp KP_N7           &kp KP_N8   &kp KP_N9   &kp KP_PLUS      &kp N6      &kp N7        &mt UP PG_UP   &kp N9        &kp N0
-    &kp KP_MULTIPLY  &kp KP_N4           &kp KP_N5   &kp KP_N6   &kp KP_EQUAL     &kp H       &mt LEFT HOME &mt DOWN PG_DN &mt RIGHT END &mt RGUI SEMICOLON
-    &kp KP_SLASH     &kp KP_N1           &kp KP_N2   &kp KP_N3   &kp B            &kp N       &kp M         &kp COMMA      &kp DOT       &kp FSLH
+    &kp KP_MINUS     &kp KP_N7           &kp KP_N8   &kp KP_N9   &kp KP_PLUS      &kp N6      &kp N7        &mt PG_UP UP   &kp N9        &kp N0
+    &kp KP_MULTIPLY  &kp KP_N4           &kp KP_N5   &kp KP_N6   &kp EQUAL        &kp H       &mt HOME LEFT &mt PG_DN DOWN &mt END RIGHT &mt RGUI SEMICOLON
+    &kp KP_SLASH     &kp KP_N1           &kp KP_N2   &kp KP_N3   &kp LCTRL        &kp N       &kp M         &kp COMMA      &kp DOT       &kp FSLH
                      &mt DOT KP_COMMA    &kp KP_N0                                                          &kp GRAVE      &kp BSLH 
                             &kp LPAR     &kp TAB     &kp LSHFT                    &kp RALT    &kp BSPC      &trans
                             &kp RPAR     &kp SPACE   &trans                       &mo NUM     &kp ENTER     &trans
