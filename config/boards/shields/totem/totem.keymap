@@ -78,7 +78,7 @@ label= "BASE"                              ;
     &mt LGUI A  &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G           &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &mt RGUI SEMICOLON
     &kp Z       &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
                 &kp LBKT    &kp RBKT                                                        &kp GRAVE   &kp BSLH 
-                            &trans      &kp TAB     &kp LSHFT       &kp RALT    &kp BSPC    &trans
+                            &trans      &kp TAB     &kp LSHFT       &kp RALT    &kp BSPC    &kp LCTRL
                             &trans      &kp SPACE   &trans          &mo NUM     &kp ENTER   &trans
                         >;
                 };
@@ -108,7 +108,7 @@ label= "NUM"                              ;
     &kp KP_MINUS     &kp KP_N7           &kp KP_N8   &kp KP_N9   &kp KP_PLUS      &kp N6      &kp N7        &mt UP PG_UP   &kp N9        &kp N0
     &kp KP_MULTIPLY  &kp KP_N4           &kp KP_N5   &kp KP_N6   &kp KP_EQUAL     &kp H       &mt LEFT HOME &mt DOWN PG_DN &mt RIGHT END &mt RGUI SEMICOLON
     &kp KP_SLASH     &kp KP_N1           &kp KP_N2   &kp KP_N3   &kp B            &kp N       &kp M         &kp COMMA      &kp DOT       &kp FSLH
-                     &mt KP_DOT KP_COMMA &kp KP_N0                                                          &kp GRAVE      &kp BSLH 
+                     &mt DOT KP_COMMA    &kp KP_N0                                                          &kp GRAVE      &kp BSLH 
                             &kp LPAR     &kp TAB     &kp LSHFT                    &kp RALT    &kp BSPC      &trans
                             &kp RPAR     &kp SPACE   &trans                       &mo NUM     &kp ENTER     &trans
                         >;
